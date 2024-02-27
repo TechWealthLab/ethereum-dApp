@@ -1,0 +1,3 @@
+Start:
+
+`lite-server`
